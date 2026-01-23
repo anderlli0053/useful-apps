@@ -1,0 +1,1 @@
+pake "https://teletext.rtvslo.si/100/1" --name "Teletekst" --icon "favicon.png" --width 492 --height 655 --hide-title-bar

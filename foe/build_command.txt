@@ -1,0 +1,1 @@
+pake "https://en12.forgeofempires.com/game/index?" --name "Forge Of Empires" --icon "favicon.png" --width 1152 --height 864 --hide-title-bar
