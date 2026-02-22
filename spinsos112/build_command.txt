@@ -1,0 +1,1 @@
+pake "https://spin3.sos112.si/javno/zemljevid" --name "Spin SOS 112" --icon "favicon.png" --hide-title-bar
